@@ -16,7 +16,7 @@ The second table that identifies employee who are eligible for the mentorship pr
 From these tables, we can see that there are four key takeaways:
 - 1. Almost a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff.
 - 2. As a result, Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill.
-- 3. Among those that are retiring, there are 1,549 employees that qualify for the mentorship program.
+- 3. Among those that are retiring which is 72,548, there are 1,549 employees that qualify for the mentorship program.
 - 4. here are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
 
 ## Summary
