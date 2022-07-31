@@ -6,3 +6,6 @@ The purpose of this analysis is to create two tables: one to determine the numbe
 ## Results
 
 The first table that determines the number of retiring employees and their position titles
+
+![Employee_analysis_results](/retiring_titles.png)
+
